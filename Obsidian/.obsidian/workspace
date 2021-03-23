@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "b2f229870feba881",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a64690e670761db",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hackermans Handbook/Untitled.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79c14d52b8288b0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2366990af5e710df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e05e64475081abec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "60ca78f767f00112",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f216e15b4b0e3b7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "529546d89774fa6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10fd76bacf76b1e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hackermans Handbook/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
