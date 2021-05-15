@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5a64690e670761db",
+        "id": "e804ba9dbc97d52f",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hackermans Handbook/Untitled.md",
+            "file": "Practical Ethical Hacking/Networking Refresher/Subnetting.md",
             "mode": "source"
           }
         }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hackermans Handbook/Untitled.md",
+                "file": "Practical Ethical Hacking/Networking Refresher/Subnetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,7 +86,13 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "e804ba9dbc97d52f",
   "lastOpenFiles": [
+    "Practical Ethical Hacking/Networking Refresher/Subnetting.md",
+    "Practical Ethical Hacking/Networking Refresher/Common Ports and Protocols.md",
+    "Hackermans Handbook/Untitled.md",
+    "Practical Ethical Hacking/Networking Refresher/OSI Model.md",
+    "Practical Ethical Hacking/Networking Refresher/Untitled.md",
     "Untitled.md"
   ]
 }
