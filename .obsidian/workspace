@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Practical Ethical Hacking/Networking Refresher/Subnetting.md",
+            "file": "THM Cyber Defense/Intro to Cyber Defense/SMB ~ Samba.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practical Ethical Hacking/Networking Refresher/Subnetting.md",
+                "file": "THM Cyber Defense/Intro to Cyber Defense/SMB ~ Samba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,15 @@
   },
   "active": "e804ba9dbc97d52f",
   "lastOpenFiles": [
-    "Practical Ethical Hacking/Networking Refresher/Subnetting.md",
-    "Practical Ethical Hacking/Networking Refresher/Common Ports and Protocols.md",
-    "Hackermans Handbook/Untitled.md",
-    "Practical Ethical Hacking/Networking Refresher/OSI Model.md",
-    "Practical Ethical Hacking/Networking Refresher/Untitled.md",
-    "Untitled.md"
+    "THM Cyber Defense/Intro to Cyber Defense/SMB ~ Samba.md",
+    "THM Cyber Defense/Intro to Cyber Defense/Password Cracking.md",
+    "THM Cyber Defense/Intro to Cyber Defense/Untitled.md",
+    "Malware Analysis/REMnux Toolkit/Volatility.md",
+    "Malware Analysis/REMnux Toolkit/ViperMonkey.md",
+    "Malware Analysis/REMnux Toolkit/peepdf.md",
+    "Malware Analysis/REMnux Toolkit/Untitled.md",
+    "Malware Analysis/Steps of a Malware Attack.md",
+    "Malware Analysis/Fingerprints.md",
+    "Malware Analysis/Analysis.md"
   ]
 }
