@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "THM Cyber Defense/Intro to Cyber Defense/SMB ~ Samba.md",
+            "file": "THM Cyber Defense/Forensics/Volatility (Forensics).md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THM Cyber Defense/Intro to Cyber Defense/SMB ~ Samba.md",
+                "file": "THM Cyber Defense/Forensics/Volatility (Forensics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e804ba9dbc97d52f",
   "lastOpenFiles": [
-    "THM Cyber Defense/Intro to Cyber Defense/SMB ~ Samba.md",
+    "THM Cyber Defense/Forensics/Volatility (Forensics).md",
+    "THM Cyber Defense/Malware Analysis/REMnux Toolkit/Volatility (Malware Analysis).md",
+    "THM Cyber Defense/Malware Analysis/Steps of a Malware Attack.md",
+    "THM Cyber Defense/Malware Analysis/REMnux Toolkit/Volatility.md",
+    "THM Cyber Defense/Forensics/Untitled.md",
+    "THM Cyber Defense/Untitled.md",
+    "THM Cyber Defense/Malware Analysis/Analysis.md",
     "THM Cyber Defense/Intro to Cyber Defense/Password Cracking.md",
-    "THM Cyber Defense/Intro to Cyber Defense/Untitled.md",
-    "Malware Analysis/REMnux Toolkit/Volatility.md",
-    "Malware Analysis/REMnux Toolkit/ViperMonkey.md",
-    "Malware Analysis/REMnux Toolkit/peepdf.md",
-    "Malware Analysis/REMnux Toolkit/Untitled.md",
-    "Malware Analysis/Steps of a Malware Attack.md",
-    "Malware Analysis/Fingerprints.md",
-    "Malware Analysis/Analysis.md"
+    "README.md",
+    "Pasted image 20210520115848.png"
   ]
 }
