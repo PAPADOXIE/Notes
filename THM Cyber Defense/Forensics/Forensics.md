@@ -1,0 +1,2 @@
+# Forensics
+### [[Volatility (Forensics)]]
