@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e804ba9dbc97d52f",
+        "id": "d3fb1152ca2bcb4b",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e804ba9dbc97d52f",
+  "active": "d3fb1152ca2bcb4b",
   "lastOpenFiles": [
-    "THM Cyber Defense/THM Cyber Defense.md",
-    "THM Cyber Defense/Untitled.md",
-    "Practical Ethical Hacking/Untitled.md",
-    "Practical Ethical Hacking/Networking Refresher/Untitled.md",
-    "THM Cyber Defense/Forensics/Untitled.md",
-    "THM Cyber Defense/Intro to Cyber Defense/Windows/Active Directory/Active Directory.md",
+    "Practical Ethical Hacking/Networking Refresher/Common Ports and Protocols.md",
     "THM Cyber Defense/Intro to Cyber Defense/Windows/Windows.md",
-    "THM Cyber Defense/Intro to Cyber Defense/Windows/Active Directory/Untitled.md",
-    "THM Cyber Defense/Intro to Cyber Defense/Intro to Cyber Defense.md",
-    "THM Cyber Defense/Intro to Cyber Defense/Windows/Untitled.md"
+    "THM Cyber Defense/Intro to Cyber Defense/Windows/Windows Internals/Windows Internals.md",
+    "THM Cyber Defense/Intro to Cyber Defense/Windows/Windows Internals/System.md",
+    "THM Cyber Defense/Intro to Cyber Defense/Windows/Windows Internals/Client Server Runtime Process (csrss.exe).md",
+    "THM Cyber Defense/Intro to Cyber Defense/Windows/Windows Internals/Windows Session Manager (smss.exe).md",
+    "THM Cyber Defense/Intro to Cyber Defense/Windows/Windows Internals/Untitled.md",
+    "THM Cyber Defense/Intro to Cyber Defense/Windows/Active Directory/Active Directory.md",
+    "THM Cyber Defense/Intro to Cyber Defense/Windows/Untitled.md",
+    "THM Cyber Defense/Intro to Cyber Defense/Intro to Cyber Defense.md"
   ]
 }
