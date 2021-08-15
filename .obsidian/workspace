@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "THM Cyber Defense/Intro to Cyber Defense/Windows/Windows Internals/Windows Initialization Process (wininit.exe).md",
-            "mode": "source"
+            "file": "THM Cyber Defense/Intro to Cyber Defense/Windows/Active Directory/Authentication.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 307
   },
   "right": {
     "id": "f216e15b4b0e3b7e",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THM Cyber Defense/Intro to Cyber Defense/Windows/Windows Internals/Windows Initialization Process (wininit.exe).md",
+                "file": "THM Cyber Defense/Intro to Cyber Defense/Windows/Active Directory/Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d3fb1152ca2bcb4b",
   "lastOpenFiles": [
-    "THM Cyber Defense/Intro to Cyber Defense/Windows/Windows Internals/Windows Initialization Process (wininit.exe).md",
-    "THM Cyber Defense/Intro to Cyber Defense/Windows/Windows Internals/Service Control Manager (services.exe).md",
-    "THM Cyber Defense/Intro to Cyber Defense/Windows/Windows Internals/Client Server Runtime Process (csrss.exe).md",
-    "THM Cyber Defense/Intro to Cyber Defense/Windows/Windows Internals/Windows Internals.md",
-    "THM Cyber Defense/THM Cyber Defense.md",
-    "THM Cyber Defense/Intro to Cyber Defense/Windows/Active Directory/Domain Services.md",
-    "THM Cyber Defense/Intro to Cyber Defense/Windows/Active Directory/Components of Active Directory.md",
+    "THM Cyber Defense/Intro to Cyber Defense/Windows/Active Directory/Authentication.md",
     "THM Cyber Defense/Intro to Cyber Defense/Windows/Active Directory/Active Directory.md",
-    "THM Cyber Defense/Malware Analysis/REMnux Toolkit/peepdf.md",
-    "THM Cyber Defense/Malware Analysis/REMnux Toolkit/REMnux Toolkit.md"
+    "THM Cyber Defense/Intro to Cyber Defense/Windows/Active Directory/Domain Controllers.md",
+    "THM Cyber Defense/Intro to Cyber Defense/Windows/Active Directory/Components of Active Directory.md",
+    "THM Cyber Defense/Intro to Cyber Defense/Password Cracking.md",
+    "THM Cyber Defense/Intro to Cyber Defense/Intro to Cyber Defense.md",
+    "THM Cyber Defense/Intro to Cyber Defense/Windows/Windows Internals/Windows Session Manager (smss.exe).md",
+    "THM Cyber Defense/Intro to Cyber Defense/Windows/Windows Internals/Windows Internals.md",
+    "THM Cyber Defense/Intro to Cyber Defense/Windows/Windows Internals/Service Control Manager (services.exe).md",
+    "THM Cyber Defense/Intro to Cyber Defense/Windows/Windows Internals/Windows Initialization Process (wininit.exe).md"
   ]
 }
